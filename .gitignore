@@ -10,7 +10,7 @@
 .metadata
 .settings
 
-.idea
+.idea/
 
 .vagrant/
 .venv/

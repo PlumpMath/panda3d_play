@@ -1,0 +1,16 @@
+*.lib
+*.a
+*.pdf
+*_local.py
+
+*.spyderworkspace
+.project
+.pydevproject
+
+.metadata
+.settings
+
+.idea
+
+.vagrant/
+.venv/
